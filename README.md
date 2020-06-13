@@ -1,2 +1,3 @@
-# atomiv-frontend-sass-bootstrap
-Atomiv - Frontend (Sass - Bootstrap)
+# Atomiv DevOps
+
+Repository for Atomiv DevOps templates
